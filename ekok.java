@@ -1,3 +1,4 @@
+//Girilen iki sayının ekok unu veren algoritma
 public static int ekok(int number1, int number2){
     int carpan1 = 2;
     int carpan2 = 2;
