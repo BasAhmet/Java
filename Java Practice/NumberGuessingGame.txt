@@ -1,0 +1,2 @@
+Java ile mini bir sayı tahmin oyunu yaptık
+while, method ve if kullnımını tekrar etmiş olduk.
